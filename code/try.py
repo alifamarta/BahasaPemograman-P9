@@ -1,5 +1,5 @@
 try:
-    fh = open("testfile","w ")
+    fh = open("testfile","w")
     fh.write("File for exception handling")
 
 except IOError:
