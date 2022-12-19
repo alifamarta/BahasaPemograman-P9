@@ -137,4 +137,4 @@ except NetworkError as e:
 ```
 Hasilnya: 
 
-![](img/Img5.png)
+![Img.png](Img/Img5.png)
